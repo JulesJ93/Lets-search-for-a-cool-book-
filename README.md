@@ -1,4 +1,5 @@
 # MERN-Challenge-Book-Search-Engine
+This application is emblematic of the fact that most modern websites are driven by two things: data and user demands. This shouldn't come as a surprise, as the ability to personalize user data is the cornerstone of real-world web development today. And as user demands evolve, applications need to be more performant. This application has been refactored from a  RESTful API to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. 
 
 User Story
 
